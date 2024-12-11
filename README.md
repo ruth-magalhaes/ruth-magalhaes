@@ -1,6 +1,6 @@
 ## Olá, eu me chamo Ruth 
 
-<p align="justfy"> <br>Sou estudante de Análise e Desenvolvimento de Sistemas. <br><br><strong> "A tecnologia é uma ponte entre sonhos e possibilidades." ✨   </strong></p>&nbsp;
+<p align="justfy"> <br>Sou estudante de Análise e Desenvolvimento de Sistemas | SPTECH <br><br><strong> "A tecnologia é uma ponte entre sonhos e possibilidades." ✨   </strong></p>&nbsp;
 
           
 <div  align="center" style="margin-bottom:100px">
