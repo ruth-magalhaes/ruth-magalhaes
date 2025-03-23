@@ -42,14 +42,12 @@
  
 
 </div>
-<br>
 #### Minhas ferramentas de trabalho: <br>
 <div style="display: inline_block"><br>
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <img align="center" height="50" width="60" src="https://blog.aeciopires.com/wp-content/uploads/2021/02/golang.png" />
            
-  <img  align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
   <img  align="center" height="50" width="60" src="https://t.ctcdn.com.br/ioxAnY1J2aNEmDIXSfLneYU5GxU=/1200x675/smart/i2241.png" />
 
@@ -59,7 +57,7 @@
 
 &nbsp;
 &nbsp;
-
+<br> <br> <br>
 ## Contacts:
 
 <div> 
