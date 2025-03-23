@@ -10,7 +10,7 @@
  
  &nbsp;
  &nbsp;
-## Minhas Skills
+## Minhas Skills       <br> <br>
 
 #### Minhas principais Stacks:
 
