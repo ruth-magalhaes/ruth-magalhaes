@@ -35,14 +35,14 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+<br>
 
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
  
 
 </div>
-#### Minhas ferramentas de trabalho: <br>
+### Minhas ferramentas de trabalho: <br>
 <div style="display: inline_block"><br>
     <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
@@ -51,7 +51,7 @@
 
   <img  align="center" height="50" width="60" src="https://t.ctcdn.com.br/ioxAnY1J2aNEmDIXSfLneYU5GxU=/1200x675/smart/i2241.png" />
 
-  
+  <br> <br> <br>
     
 </div>
 
